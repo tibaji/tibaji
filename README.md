@@ -15,7 +15,7 @@
 
 ---
 
-**Lana Coelho** · ela/dela · dev fullstack  
+**Lana Coelho** · ela/dela elu/delu · dev fullstack  
 construtora de arquivos vivos na interseção entre código, memória e corpos dissidentes
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tibaji)
